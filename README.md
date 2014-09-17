@@ -8,3 +8,4 @@ there are many simple goals:
 1. javascript code can be arranged like java code, minificated with ease.
 2. javascript packages can be referenced hierachically into deep library
 3. javascript code can be used for both frontend or backend side.
+4. javascript can be easily distributed to different servers.
